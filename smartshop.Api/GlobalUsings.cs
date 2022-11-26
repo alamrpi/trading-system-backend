@@ -1,0 +1,10 @@
+﻿global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using smartshop.Api.Helpers;
+global using smartshop.Business.Dtos;
+global using smartshop.Business.IServices;
+global using smartshop.Business.ViewModels;
+global using smartshop.Common.Dto;
+global using smartshop.Common.QueryParams;
+using smartshop.Common.Constants;

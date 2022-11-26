@@ -1,0 +1,26 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs
+/smartshop.Api/Properties/PublishProfiles
+/smartshop-back-end/bin/Debug/net6.0
+/smartshop-back-end/obj
+/smartshop.Api/bin/Debug/net6.0
+/smartshop.Api/obj
+/smartshop.Business/obj
+/smartshop.Common/obj
+/smartshop.Data/obj
+/smartshop.Entities/obj
+/.vs/smartshop-back-end
+/smartshop.Business/bin/Debug/net6.0
+/smartshop.Data/bin/Debug/net6.0
+/smartshop.Entities/bin/Debug/net6.0
+/smartshop.Common/bin/Debug/net6.0
+/smartshop.Api/bin/Release/net6.0
+/smartshop.Business/bin/Release/net6.0
+/smartshop.Common/bin/Release/net6.0
+/smartshop.Data/bin/Release/net6.0
+/smartshop.Entities/bin/Release/net6.0
+/smartshop.Api.Test/bin/Debug/net6.0
+/smartshop.Api.Test/obj/Debug/net6.0
+/smartshop.Api.Test/obj
